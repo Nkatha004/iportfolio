@@ -1,0 +1,41 @@
+nav ul li{
+    display: inline-flex;
+    margin: 2vw;
+}
+body{
+    background-color: black;
+    color: white;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav a:hover, h1{
+    color:gold;
+}
+#welcome-section, #profile-link
+{
+    text-align: center;
+}
+#welcome-section p{
+    color: white;
+}
+#welcome-section img
+{
+    height: 300px;
+    width: 200px;
+    border-radius: 50%;
+}
+.project-tile .card
+{
+    margin: 3vw;
+    display: inline-block;
+}
+.card-body
+{
+    color: black;
+}
+.profile
+{
+    display: inline-block;
+}
